@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LiveDataRoomDb</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="emailTxt">EmailId</string>
+    <string name="nameTxt">Name</string>
+    <string name="passTxt">Password</string>
+    <string name="loginTxt">LOGIN</string>
+    <string name="regTxt">REGISTER</string>
+    <string name="dontaccount">Don\'t have account! <b>Register Here</b></string>
+    <string name="alreadyhaveaccount">Already have account! <b>Login Here</b></string>
+</resources>
